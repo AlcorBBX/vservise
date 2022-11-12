@@ -1,0 +1,14 @@
+.input {
+  border-radius: 10px;
+  height: 40px;
+  width: 208px;
+  /* margin: 0 10px; */
+}
+
+.title {
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 11px;
+  font-family: 'Roboto';
+  margin: 0;
+}

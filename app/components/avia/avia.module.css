@@ -1,0 +1,12 @@
+.buttonSection {
+  box-shadow: 0px 0px 14px rgba(112, 121, 153, 0.3);
+  display: flex;
+  justify-content: flex-end;
+  height: 86px;
+  align-items: center;
+}
+
+.container {
+  width: 1000px;
+  borderradius: 15px;
+}
