@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  margin: 30px auto;
+  width: 950px;
+  height: 200px;
+
+  box-shadow: 0px 0px 14px rgba(112, 121, 153, 0.3);
+  border-radius: 15px;
+}
+
+.logoSection {
+}
+
+.one {
+}
+
+.two {
+}
+
+.tree {
+}
+
+.cost {
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 32px;
+  color: #232323;
+}
